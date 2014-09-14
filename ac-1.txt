@@ -1,4 +1,4 @@
-ATIVIDADE COMPLEMENTAR 1
+﻿ATIVIDADE COMPLEMENTAR 1
 
 Leia o artigo de Cerpa e Verner (Why did your project fail?), 
 disponível em http://dl.acm.org/citation.cfm?id=1610286 e na área de Leituras do ambiente Ensino Aberto, 
@@ -19,4 +19,4 @@ e responda às seguintes questões:
 3. Qual é a sugestão dos autores para que futuros projetos de software fracassem menos, e como essa sugestão ajudaria a melhorar os novos projetos?
 
 	Resposta:
-a
+aaaaa
