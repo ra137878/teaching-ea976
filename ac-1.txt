@@ -1,0 +1,26 @@
+﻿ATIVIDADE COMPLEMENTAR 1
+
+Leia o artigo de Cerpa e Verner (Why did your project fail?), 
+disponível em http://dl.acm.org/citation.cfm?id=1610286 e na área de Leituras do ambiente Ensino Aberto, 
+e responda às seguintes questões:
+
+1. No estudo dos autores, qual foi a proporção de projetos de software que falharam? Esse valor é confiável?
+
+	Resposta: No estudo dos autores, dos 235 projetos que possuíam um questionário completo, existiam 75 (32%) que foram considerados fracassos pelos desenvolvedores. Os questionários, baseados na literatura e em discussões com mais de 90 profissionais da área, possuíam 88 questões que abrangiam diversas sessões sobre desenvolvimento de software e foram aplicados em três países - fatores esses que atribuem bastante consistência à pesquisa. Além disso, embora o clima político de algumas organizações tenha dificultado que os gerentes dos projetos admitissem que o projeto fracassou, como os desenvolvedores não tinham tal dificuldade e na pesquisa foram considerados os projetos fracassados segundo os desenvolvedores, a proporção antes mencionada de projetos que falharam parece confiável.
+
+
+
+2. A figura 1 apresenta os principais fatores de falhas em projetos de software e relações entre eles, mas não dá nome para essas relações. Escolha dois fatores que estejam relacionados e discuta qual a relação que você acha que existe entre elas, justificando sua resposta.
+
+	Resposta: Dois fatores: “Customer did not make adequate time for requirements” e “Delivery date made with inadequate requirements”.
+Acredito que exista uma relação de causa e consequência entre o primeiro e o segundo fator, ou seja, como o cliente não separou um tempo suficiente para estabelecer os pré-requisitos, os pré-requisitos ficaram inadequados e a data de entrega, construída a partir de tais, também. 
+Se o tempo para definição dos pré-requisitos não foi suficiente (não houve, portanto, discussões e conversas entre cliente e desenvolvedor em quantidade e/ou qualidade satisfatória), então talvez esses tenham ficado incompletos e imprecisos. Dessa forma, haveria grandes chances de o prazo de entrega do produto também ser impreciso, afinal, por exemplo, poderiam surgir novos detalhes e implementações que não foram pensados com antecedência e que demandariam mais tempo.
+
+
+
+
+3. Qual é a sugestão dos autores para que futuros projetos de software fracassem menos, e como essa sugestão ajudaria a melhorar os novos projetos?
+
+	Resposta: A sugestão dos autores para que futuros projetos de software fracassem menos é que sejam executadas revisões de projeto “post mortem”. Essa sugestão ajudaria a melhorar os novos projetos, porque seria possível ganhar conhecimento, aprender, com os resultados dos projetos passados. Afinal, os projetos de software continuam falhando pelas mesmas razões reportadas repetidamente na literatura há pelo menos 30 anos (segundo dados da pesquisa de Brooks, a pesquisa mais antiga citada no artigo).
+
+
